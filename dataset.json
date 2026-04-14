@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for San Diego-Chula Vista-Carlsbad Metro Area, CA, US",
+  "export_job_id": "827f0a10-d79c-41e2-9b52-debd348033b5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 620591,
+  "location_name": "San Diego-Chula Vista-Carlsbad, CA",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-san-diego-chula-vista-carlsbad-metro-area-ca-us-sample-620591",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/620591/beamstation_620591_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
+  "sample_pct": 9.49,
+  "sample_records": 15,
+  "sample_sha256": "1600557c8ddb7d5ccc5ad90f6488cbf544648fc4afbddbbd7bbfa51f3d2fe90c",
+  "sample_size_bytes": 72336,
+  "total_records": 158,
+  "updated_at": "2026-04-07T17:24:13.984812+00:00"
+}
