@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for San Diego-Chula Vista-Carlsbad Metro Area, CA, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `620591` |
 | Location | San Diego-Chula Vista-Carlsbad, CA |
 | Category | Restaurants |
-| Full dataset size | 125 records |
-| Free sample size | 12 records (9.6%) |
-| Last export | 2026-04-22T02:13:19.756149+00:00 |
+| Full dataset size | 134 records |
+| Free sample size | 13 records (9.7%) |
+| Last export | 2026-04-29T05:22:12.260880+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-san-diego-chula-vista-carlsbad-metro-area-ca-us-sample-620591/releases/download/sample-latest/beamstation_620591_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
