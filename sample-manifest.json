@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bdead96a-479a-4a41-ad02-de52f1f6798c",
+  "export_job_id": "e7a38a2b-a741-47d8-964f-894f4ebf1223",
   "id_short": 620591,
-  "published_at": "2026-04-22T07:46:18Z",
+  "published_at": "2026-04-29T07:50:23Z",
   "repo_name": "the-hhi-monopoly-index-for-san-diego-chula-vista-carlsbad-metro-area-ca-us-sample-620591",
   "sample_asset_name": "beamstation_620591_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/620591/beamstation_620591_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "83d4f18ad3a4c058502a588f3e587f4a1cf44056661ac178737f7a2e34a1376d",
-  "sample_size_bytes": 64799,
-  "total_records": 125
+  "sample_records": 13,
+  "sample_sha256": "76242942856760fe9c6168a98334a2c08cdbf1fef24903ee89c5e08668497e9c",
+  "sample_size_bytes": 67627,
+  "total_records": 134
 }
